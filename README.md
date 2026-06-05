@@ -1,1 +1,1 @@
-Capybara Clicker clicker game jeu codex amusement clicker
+Capybara Clicker est un jeu de clics amusant où vous devez cliquer sur un capybara pour gagner des points, débloquer des améliorations et progresser toujours plus vite. Collectez des ressources, améliorez votre production et tentez d'atteindre le score le plus élevé possible dans cette aventure addictive inspirée des meilleurs jeux clicker.
